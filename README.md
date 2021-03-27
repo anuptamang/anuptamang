@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi, I'm Anup. 👋
 
-<!--
-**anuptamang/anuptamang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm a Full Stack JavaScript / React Developer!
 
 - 🔭 I’m currently working on instagram-clone!
 - 🌱 I’m currently learning Gatsby / GraphQL
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anupkumartamang@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I can wiggle my both ears 😄
--->
