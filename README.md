@@ -8,5 +8,5 @@
 - [x] 🤔 I’m looking for help with testing!
 - [x] 💬 Ask me about HTML, CSS, JavaScript, React
 - [x] 📫 How to reach me: anupkumartamang@gmail.com
-- [x] 😄 Pronouns: he
+- [x] 😄 Pronouns: he / him
 - [x] ⚡ Fun fact: I can wiggle my both ears 😄
