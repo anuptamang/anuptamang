@@ -1,6 +1,6 @@
 ### Hi, I'm Anup. 👋
 
-## I'm a Fronend Developer!
+## I'm a Frontend Developer!
 
 - [x] 🔭 I’m currently working on MERN e-commerce web app
 - [x] 🌱 I’m currently learning Next.js
