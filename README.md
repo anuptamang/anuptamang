@@ -2,8 +2,7 @@
 
 ## I'm a Full Stack Developer!
 
-- [x] 🔭 I’m currently working on Task Scheduling Automation web app
-- [x] 🌱 I’m currently learning and using server components and DB
+- [x] 🔭 I’m currently working on integrating Scoro API to build a Scheduling Automation web app
 - [x] 👯 I’m looking to collaborate on creating content!
 - [x] 🤔 I’m looking for help with testing!
 - [x] 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, PHP
